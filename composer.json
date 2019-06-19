@@ -19,5 +19,10 @@
         "psr-4": {
             "Spaceduck\\Pages\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Spaceduck\\Pages\\": "src/"
+        }
     }
 }
