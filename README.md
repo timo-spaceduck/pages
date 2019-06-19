@@ -9,6 +9,8 @@ You can add this library as a local, per-project dependency to your project usin
 
     composer require spaceduck/pages
     
+The package will automatically register itself.
+    
 You can publish the migration with:
 
     php artisan vendor:publish --provider="Spaceduck\Pages\PagesServiceProvider" --tag="migrations"
