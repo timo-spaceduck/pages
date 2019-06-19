@@ -14,5 +14,10 @@
                 "Spaceduck\\Pages\\PagesServiceProvider"
             ]
         }
+    },
+    "autoload": {
+        "psr-4": {
+            "Spaceduck\\Pages\\": "src/"
+        }
     }
 }
